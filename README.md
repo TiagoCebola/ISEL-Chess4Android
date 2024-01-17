@@ -38,6 +38,7 @@ The project's main goal was to design an android application using the lichess A
 
 In the video below you can check the layout and how the application works:
 
+https://github.com/TiagoCebola/ISEL-Chess4Android/assets/80770795/3520291f-9c75-4909-b8a2-03dcdd476566
 
 ### Useful links
 
