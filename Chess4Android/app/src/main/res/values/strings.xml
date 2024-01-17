@@ -1,0 +1,71 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chess4Android</string>
+
+    <!-- MAIN ACTIVITY screen -->
+    <string name="chess_title">CHESS ROYALE</string>
+    <string name="chess_wallpaper">chess_wallpaper</string>
+    <string name="play_button">Play Now</string>
+    <string name="pvp_button">Local</string>
+    <string name="history">History</string>
+    <string name="credits">Credits</string>
+
+    <!-- LOCAL GAME ACTIVITY screen -->
+    <string name ="white_piece_turn">It\'s the white turn</string>
+    <string name ="black_piece_turn">It\'s the black turn</string>
+    <string name ="white_surrender">The white player is a chicken</string>
+    <string name ="black_surrender">The blacks player is a chicken</string>
+    <string name="white_chess_winner">The white won</string>
+    <string name="black_chess_winner">The black won</string>
+    <string name="white_king_checked">The white king is in check</string>
+    <string name="black_king_checked">The black king is in check</string>
+    <string name="forfeit" >Forfeit</string>
+
+    <!-- HISTORY ACTIVITY screen -->
+    <string name="get_puzzle_error">Could not fetch the daily puzzle.</string>
+    <string name="isResolved">Unresolved</string>
+    <string name="resolvedPuzzle">See resolution</string>
+    <string name="resolution_title">This is the puzzle resolution</string>
+
+    <!-- CREDITS screen -->
+    <string name="about_content">"Credits for the creators of the Lichess API "</string>
+    <string name="about_menu">About</string>
+    <string name="lichess_icon">lichess_icon</string>
+    <string name="linkedIn_icon">linkedIn_icon</string>
+    <string name="github_icon">github_icon</string>
+    <string name="tiago_cebola_n_47594">Tiago Cebola, Nº47594</string>
+    <string name="ruben_sousa_n_47575">Ruben Sousa, Nº47575</string>
+    <string name="gustavo_campos_n_47576">Gustavo Campos, Nº47576</string>
+
+    <!-- RESOLUTION ACTIVITY screen -->
+    <string name="chess_resolution_title"></string>
+    <string name="chess_moveBlack_title">Find the best move for the black piece</string>
+    <string name="chess_moveWhite_title">Find the best move for the white piece</string>
+    <string name="chess_sucess_title">Sucess at completing the puzzle</string>
+    <string name="continue_training">Continue Training</string>
+
+
+
+    <!-- GAME LIST ACTIVITY screen -->
+    <string name="list_screen_title">TicTacToe challenges</string>
+    <string name="list_create_challenge_button_label">New Challenge</string>
+    <string name="list_menu_update_label">Refresh</string>
+    <string name="error_getting_list">Could not fetch challenges list</string>
+    <string name="error_accepting_challenge">Could not accept challenge</string>
+    <string name="accept_challenge_dialog_title">Accept %s\'s challenge?</string>
+    <string name="accept_challenge_dialog_ok">OK</string>
+    <string name="accept_challenge_dialog_cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+
+    <!-- CREATE CHALLENGE ACTIVITY screen -->
+    <string name="create_challenge_title">Create Challenge</string>
+    <string name="create_challenge_waiting_message">Waiting for the contender</string>
+    <string name="create_challenge_prompt_challenger_name">Name</string>
+    <string name="create_challenge_prompt_message">Message</string>
+    <string name="create_challenge_button_label">Post challenge</string>
+    <string name="cancel_challenge_button_label">Cancel</string>
+    <string name="create_challenge_button_label_in_short">Post it</string>
+    <string name="error_creating_challenge">Could not create challenge</string>
+
+
+
+</resources>

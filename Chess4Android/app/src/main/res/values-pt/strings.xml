@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chess4Android</string>
+
+    <!-- MAIN ACTIVITY screen -->
+    <string name="chess_title">CHESS ROYALE</string>
+    <string name="chess_wallpaper">Papel de parede do xadrez</string>
+    <string name="play_button">Jogar Agora</string>
+    <string name="pvp_button">Online</string>
+    <string name="history">Histórico</string>
+    <string name="credits">Creditos</string>
+
+    <!-- LOCAL GAME ACTIVITY screen -->
+    <string name ="white_piece_turn">É a vez das brancas</string>
+    <string name ="black_piece_turn">É a vez das pretas</string>
+    <string name ="white_surrender">O jogador branco é um fracote</string>
+    <string name ="black_surrender">O jogador preto é um fracote</string>
+    <string name="white_chess_winner">As brancas são vencedoras</string>
+    <string name="black_chess_winner">As pretas são vencedoras</string>
+    <string name="white_king_checked">O rei branco está em check</string>
+    <string name="black_king_checked">O rei preto está em check</string>
+    <string name="forfeit" >Desistir</string>
+
+    <!-- HISTORY ACTIVITY screen -->
+    <string name="get_puzzle_error">Não foi possivel obter o puzzle diario.</string>
+    <string name="isResolved">Não resolvido</string>
+    <string name="resolvedPuzzle">Ver resolução</string>
+    <string name="resolution_title">Esta é a resolução do puzzle</string>
+
+    <!-- CREDITS screen -->
+    <string name="about_content">"Creditos para os criadores da API Lichess "</string>
+    <string name="about_menu">Acerca de</string>
+    <string name="linkedIn_icon">Icon do linkedIn</string>
+    <string name="github_icon">Icon do github</string>
+    <string name="gustavo_campos_n_47576">Gustavo Campos, Nº47576</string>
+    <string name="ruben_sousa_n_47575">Ruben Sousa, Nº47575</string>
+    <string name="tiago_cebola_n_47594">Tiago Cebola, Nº47594</string>
+    <string name="lichess_icon">Icon do lichess</string>
+
+    <!-- RESOLUTION ACTIVITY screen -->
+    <string name="chess_resolution_title"></string>
+    <string name="chess_moveBlack_title">Encontre a melhor jogada para a peça preta</string>
+    <string name="chess_moveWhite_title">Encontre a melhor jogada para a peça branca</string>
+    <string name="chess_sucess_title">Sucesso ao completar o puzzle</string>
+    <string name="continue_training">Continue Treinando</string>
+
+    <!-- GAME LIST ACTIVITY screen -->
+    <string name="list_screen_title">Desafios de xadrez</string>
+    <string name="list_create_challenge_button_label">Novo desafio</string>
+    <string name="list_menu_update_label">Atualizar</string>
+    <string name="error_getting_list">Não foi possivel obter os desafios da lista</string>
+    <string name="error_accepting_challenge">Não foi possivel aceitar o desafio</string>
+    <string name="accept_challenge_dialog_title">Aceita o desafio do %s\' ?</string>
+    <string name="accept_challenge_dialog_ok">OK</string>
+    <string name="accept_challenge_dialog_cancel">Cancelar</string>
+    <string name="loading">Carregando…</string>
+
+    <!-- CREATE CHALLENGE ACTIVITY screen -->
+    <string name="create_challenge_title">Criar um desafio</string>
+    <string name="create_challenge_waiting_message">Aguardando um adversario</string>
+    <string name="create_challenge_prompt_challenger_name">Nome</string>
+    <string name="create_challenge_prompt_message">Mensagem</string>
+    <string name="create_challenge_button_label">Publicar o desafio</string>
+    <string name="cancel_challenge_button_label">Cancelar</string>
+    <string name="create_challenge_button_label_in_short">Publicar</string>
+    <string name="error_creating_challenge">Não foi possivel criar o desafio</string>
+
+</resources>
