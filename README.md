@@ -1,7 +1,7 @@
 <h1 align="center"> Chess4Android </h1>
 
 <p align="center">
-This project was developed during the Programming on Mobile Devices course.
+This project was developed during the Mobile Devices Programming course.
 </p>
 
 <p align="center">
